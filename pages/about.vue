@@ -10,7 +10,7 @@
 </template>
 
 <script setup>
-    const { data } = await useFetch('/api/currency/ADA')
+    const { data } = await useFetch('/api/currency/GBP')
 </script>
 
 <style scoped>
